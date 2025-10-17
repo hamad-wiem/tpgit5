@@ -4,5 +4,7 @@ public class App {
         System.out.println("Hello, World!");
         //it's chaima
     }//j'essaye le conflit
+        //Modification by whamad
+    }
 }
  
