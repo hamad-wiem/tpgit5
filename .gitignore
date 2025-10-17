@@ -1,0 +1,45 @@
+# .gitignore pour projet Java
+
+# Fichiers compilés
+*.class
+
+# Répertoires de build
+/bin/
+build/
+out/
+target/
+
+# IDEs
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# Maven/Gradle
+.mvn/
+.gradle/
+build/
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Logs et fichiers temporaires
+*.log
+tmp/
+temp/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Variables d'environnement
+.env
+
+# Autres
+coverage/
+reports/
